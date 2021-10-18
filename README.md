@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# cocos creator 2.4.5
+shader learn
