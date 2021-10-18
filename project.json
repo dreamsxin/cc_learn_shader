@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.5",
+  "name": "cc_shader_learn",
+  "id": "3ed78b1e-a403-4b69-bed1-f2303d9b5df5",
+  "isNew": false
+}

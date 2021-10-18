@@ -1,1 +1,2 @@
-# cc_learn_shader
+# hello-world
+Hello world new project template.
