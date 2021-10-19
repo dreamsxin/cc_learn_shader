@@ -1,6 +1,7 @@
 {
-  "ver": "2.3.5",
+  "ver": "2.3.7",
   "uuid": "f46a8a2f-c296-46a6-a07d-793df6fce355",
+  "importer": "texture",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -12,8 +13,9 @@
   "platformSettings": {},
   "subMetas": {
     "cocos_logo": {
-      "ver": "1.0.4",
+      "ver": "1.0.6",
       "uuid": "3385a2fb-244e-4207-910c-3af79627e323",
+      "importer": "sprite-frame",
       "rawTextureUuid": "f46a8a2f-c296-46a6-a07d-793df6fce355",
       "trimType": "auto",
       "trimThreshold": 1,
