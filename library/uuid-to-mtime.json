@@ -499,20 +499,10 @@
     "meta": 1635140971091,
     "relativePath": "model/primitives.fbx"
   },
-  "1560c150-49e6-45f4-a6cc-aae6a81f9882": {
-    "asset": 1628754336802,
-    "meta": 1635141069553,
-    "relativePath": "Effects"
-  },
   "36bca2c0-1f4c-4fa6-ba95-af1cd7d054ff": {
     "asset": 1635141069332,
     "meta": 1635141069568,
     "relativePath": "GoToScene.ts"
-  },
-  "e4741f0b-6421-46b4-9c2c-5b50326862d3": {
-    "asset": 1628752861855,
-    "meta": 1635141069569,
-    "relativePath": "Materials"
   },
   "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
     "asset": 1628754731320,
@@ -534,21 +524,6 @@
     "meta": 1635141069573,
     "relativePath": "shaderScene/MeshPolygonSpriteTest"
   },
-  "5902ac63-cd9a-4b87-8d10-666331a25935": {
-    "asset": 1628586574286,
-    "meta": 1635141069599,
-    "relativePath": "Effects/cc-sprite-gray.effect"
-  },
-  "81aeff24-e5b1-492f-a7ad-1f979e1e506f": {
-    "asset": 1628756522771,
-    "meta": 1635141069617,
-    "relativePath": "Effects/cc-sprite-mosaic.effect"
-  },
-  "ddb7682d-1043-4c7b-9bc8-7b63b29be652": {
-    "asset": 1628588374672,
-    "meta": 1635141069634,
-    "relativePath": "Effects/test.effect"
-  },
   "0780a6d8-8fe7-47fb-8bf5-cb36292fb122": {
     "asset": 1628654216638,
     "meta": 1635141069642,
@@ -568,21 +543,6 @@
     "asset": 1628654254673,
     "meta": 1635141069649,
     "relativePath": "Script/waterEffectScene"
-  },
-  "98a3c7eb-a65d-4573-b78f-8ef0574edbf2": {
-    "asset": 1628586097511,
-    "meta": 1635141070038,
-    "relativePath": "Materials/cc-sprite-gray.mtl"
-  },
-  "75f221ca-f58b-48fa-870a-4e70d8a5e788": {
-    "asset": 1628587410380,
-    "meta": 1635141070039,
-    "relativePath": "Materials/test.mtl"
-  },
-  "e29550d5-f933-410c-8437-dd01928778a9": {
-    "asset": 1628754180298,
-    "meta": 1635141070040,
-    "relativePath": "Materials/cc-sprite-mosaic.mtl"
   },
   "698fa3f1-f385-4620-afad-69a7c5b22f22": {
     "asset": 1635140971244,
@@ -613,11 +573,6 @@
     "asset": 1628578041840,
     "meta": 1635141069704,
     "relativePath": "Texture/ball_0.png"
-  },
-  "a8027877-d8d6-4645-97a0-52d4a0123dba": {
-    "asset": 1589177023000,
-    "meta": 1635141069706,
-    "relativePath": "Texture/singleColor.png"
   },
   "ece38935-3c23-44f6-a9f4-6f7f6b7752a4": {
     "asset": 1632735174811,
@@ -698,11 +653,6 @@
     "asset": 1635141443928,
     "meta": 1635141443988,
     "relativePath": "res"
-  },
-  "def21fc0-ef26-4613-aadf-b4c4af22983b": {
-    "asset": 1635141443932,
-    "meta": 1635141444019,
-    "relativePath": "Texture/Cocos_Logo.png"
   },
   "9bfb87ac-83c7-415e-819b-9b92ebd2143d": {
     "asset": 1635141443937,
@@ -943,5 +893,90 @@
     "asset": 1635141924916,
     "meta": 1635141926212,
     "relativePath": "shaderScene/MeshPolygonSpriteTest/MeshPolygonSprite.ts"
+  },
+  "1560c150-49e6-45f4-a6cc-aae6a81f9882": {
+    "asset": 1635142543315,
+    "meta": 1635142555175,
+    "relativePath": "Effects"
+  },
+  "5902ac63-cd9a-4b87-8d10-666331a25935": {
+    "asset": 1628586574286,
+    "meta": 1635142555205,
+    "relativePath": "Effects/cc-sprite-gray.effect"
+  },
+  "81aeff24-e5b1-492f-a7ad-1f979e1e506f": {
+    "asset": 1628756522771,
+    "meta": 1635142555221,
+    "relativePath": "Effects/cc-sprite-mosaic.effect"
+  },
+  "b69d8556-88e1-47d8-9cb2-cbe4d03df17f": {
+    "asset": 1635142543315,
+    "meta": 1635142555232,
+    "relativePath": "Effects/sprite-loading.effect"
+  },
+  "ed4aa585-e5a6-4e0e-a06d-984565e8fd31": {
+    "asset": 1635142543315,
+    "meta": 1635142555242,
+    "relativePath": "Effects/sprite-tiled-sin.effect"
+  },
+  "ddb7682d-1043-4c7b-9bc8-7b63b29be652": {
+    "asset": 1628588374672,
+    "meta": 1635142555252,
+    "relativePath": "Effects/test.effect"
+  },
+  "e4741f0b-6421-46b4-9c2c-5b50326862d3": {
+    "asset": 1635142543316,
+    "meta": 1635142555253,
+    "relativePath": "Materials"
+  },
+  "0a46ac61-869b-4198-a810-890567a56001": {
+    "asset": 1635142543316,
+    "meta": 1635142555330,
+    "relativePath": "Materials/sprite-tiled-sin.mtl"
+  },
+  "18734e84-0107-475e-82fa-6aa0f141a673": {
+    "asset": 1635142543316,
+    "meta": 1635142555331,
+    "relativePath": "Materials/sprite-loading.mtl"
+  },
+  "e7ae7b65-c282-4317-8474-32be68fe17ea": {
+    "asset": 1635142543316,
+    "meta": 1635142555263,
+    "relativePath": "Scenes/LoadingAndTiledSin.fire"
+  },
+  "e29550d5-f933-410c-8437-dd01928778a9": {
+    "asset": 1628754180298,
+    "meta": 1635142555332,
+    "relativePath": "Materials/cc-sprite-mosaic.mtl"
+  },
+  "75f221ca-f58b-48fa-870a-4e70d8a5e788": {
+    "asset": 1628587410380,
+    "meta": 1635142555332,
+    "relativePath": "Materials/test.mtl"
+  },
+  "98a3c7eb-a65d-4573-b78f-8ef0574edbf2": {
+    "asset": 1628586097511,
+    "meta": 1635142555333,
+    "relativePath": "Materials/cc-sprite-gray.mtl"
+  },
+  "a8027877-d8d6-4645-97a0-52d4a0123dba": {
+    "asset": 1589177023000,
+    "meta": 1635142555290,
+    "relativePath": "Texture/singleColor.png"
+  },
+  "def21fc0-ef26-4613-aadf-b4c4af22983b": {
+    "asset": 1635141443932,
+    "meta": 1635142555291,
+    "relativePath": "Texture/Cocos_Logo.png"
+  },
+  "45b08f7b-b8f2-42b7-a6b9-c86a239e810b": {
+    "asset": 1635142543317,
+    "meta": 1635142555305,
+    "relativePath": "Texture/singleColor_2_2.png"
+  },
+  "03601aa6-3c6b-4fda-9579-374c77b58050": {
+    "asset": 1635142543317,
+    "meta": 1635142555328,
+    "relativePath": "Texture/HelloWorld.png"
   }
 }
