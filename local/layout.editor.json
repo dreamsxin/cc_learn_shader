@@ -5,21 +5,21 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": -208,
-      "y": -889,
-      "width": 1440,
-      "height": 825,
+      "x": -499,
+      "y": -1033,
+      "width": 1736,
+      "height": 1005,
       "layout": {
         "type": "dock-h",
         "children": [
           {
             "width": 204,
-            "height": 740,
+            "height": 917.5,
             "type": "dock-v",
             "children": [
               {
                 "width": 204,
-                "height": 281,
+                "height": 347.8125,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -28,18 +28,19 @@
               },
               {
                 "width": 204,
-                "height": 456,
+                "height": 566.6875,
                 "type": "panel",
                 "active": 0,
                 "children": [
-                  "assets"
+                  "assets",
+                  "cloud-function"
                 ]
               }
             ]
           },
           {
             "width": 304,
-            "height": 740,
+            "height": 917.5,
             "type": "panel",
             "active": 0,
             "children": [
@@ -48,13 +49,13 @@
             ]
           },
           {
-            "width": 926,
-            "height": 740,
+            "width": 1221.984375,
+            "height": 917.5,
             "type": "dock-v",
             "children": [
               {
-                "width": 926,
-                "height": 433,
+                "width": 1221.984375,
+                "height": 648.359375,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -62,8 +63,8 @@
                 ]
               },
               {
-                "width": 926,
-                "height": 304,
+                "width": 1221.984375,
+                "height": 266.140625,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -79,6 +80,7 @@
       "panels": [
         "hierarchy",
         "assets",
+        "cloud-function",
         "inspector",
         "cocos-services",
         "scene",
@@ -86,12 +88,13 @@
         "timeline",
         "game-window"
       ]
-    }
+    },
+    " common-asset-worker-worker": {}
   },
   "panels": {
     "package-asset.import": {
-      "x": 480,
-      "y": 165,
+      "x": 446,
+      "y": 143,
       "width": 404,
       "height": 574
     },
