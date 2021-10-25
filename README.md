@@ -6,6 +6,10 @@
   4. sprite2dLight-2d基本光照
   5. dissolveTest-消融效果
   6. CaptureTest-可截图生成base64
+  7. waterEffectScene-水波纹效果
+  8. GrayEffectScene-灰化效果（老照片效果）
+  9. LoadingAndTiledSin-loading和红旗飘飘效果
+  10. MosaicEffectScene-马赛克
 
 # 一、CUP & GPU
 CPU和GPU，都属于处理单元，但是结构不同，

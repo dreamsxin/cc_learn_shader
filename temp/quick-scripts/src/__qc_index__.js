@@ -1,10 +1,6 @@
 
-require('./assets/GoToScene');
-require('./assets/Script/GrayEffectScene/GrayEffectScene');
-require('./assets/Script/MosaicEffectScene/MosaicEffectScene');
+require('./assets/Scenes/GoToScene');
 require('./assets/Script/ccutils/multiresolution/ContentAdapter');
-require('./assets/Script/waterEffectScene/touch');
-require('./assets/Script/waterEffectScene/wave');
 require('./assets/shaderScene/BrightSaturaContrastTest/BrightSaturaContrastAssembler/BrightSaturaContrastAssembler');
 require('./assets/shaderScene/BrightSaturaContrastTest/BrightSaturaContrastAssembler/BrightSaturaContrastAssemblerSprite');
 require('./assets/shaderScene/BrightSaturaContrastTest/BrightSaturaContrastTest');
@@ -13,7 +9,11 @@ require('./assets/shaderScene/CaptureTest/CaptureTest');
 require('./assets/shaderScene/CaptureTest/EncodeJPG');
 require('./assets/shaderScene/LiquidBox2dTest/LiquidBox2dTest');
 require('./assets/shaderScene/MeshPolygonSpriteTest/MeshPolygonSprite');
+require('./assets/shaderScene/MosaicEffectScene/MosaicEffectScene');
 require('./assets/shaderScene/common/GTAssembler2D');
 require('./assets/shaderScene/common/GTSimpleSpriteAssembler2D');
 require('./assets/shaderScene/dissolveTest/DissolveTest');
+require('./assets/shaderScene/dissolveTest/GrayEffectScene');
 require('./assets/shaderScene/sprite2dLight/Sprite2dLightTest');
+require('./assets/shaderScene/waterEffectScene/touch');
+require('./assets/shaderScene/waterEffectScene/wave');
