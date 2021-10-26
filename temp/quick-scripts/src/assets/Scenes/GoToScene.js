@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '36bcaLAH0xPprqVrxzX0FT/', 'GoToScene');
-// GoToScene.ts
+// Scenes/GoToScene.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {

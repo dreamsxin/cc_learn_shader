@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '0b2eeYO0iZEr7/PlbdSZuUf', 'GrayEffectScene');
-// Script/GrayEffectScene/GrayEffectScene.ts
+// shaderScene/dissolveTest/GrayEffectScene.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {

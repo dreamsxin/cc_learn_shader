@@ -5,21 +5,21 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": -495,
-      "y": -1044,
-      "width": 1822,
-      "height": 1040,
+      "x": 0,
+      "y": 27,
+      "width": 1440,
+      "height": 825,
       "layout": {
         "type": "dock-h",
         "children": [
           {
             "width": 204,
-            "height": 952.5,
+            "height": 740,
             "type": "dock-v",
             "children": [
               {
                 "width": 204,
-                "height": 361.1875,
+                "height": 280.234375,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -28,7 +28,7 @@
               },
               {
                 "width": 204,
-                "height": 588.3125,
+                "height": 456.75,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -40,7 +40,7 @@
           },
           {
             "width": 304,
-            "height": 952.5,
+            "height": 740,
             "type": "panel",
             "active": 0,
             "children": [
@@ -49,13 +49,13 @@
             ]
           },
           {
-            "width": 1308,
-            "height": 952.5,
+            "width": 926,
+            "height": 740,
             "type": "dock-v",
             "children": [
               {
-                "width": 1308,
-                "height": 672.640625,
+                "width": 926,
+                "height": 396.375,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -63,8 +63,8 @@
                 ]
               },
               {
-                "width": 1308,
-                "height": 276.859375,
+                "width": 926,
+                "height": 340.625,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -93,8 +93,8 @@
   },
   "panels": {
     "package-asset.import": {
-      "x": 446,
-      "y": 143,
+      "x": 497,
+      "y": 151,
       "width": 404,
       "height": 574
     },

@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '643a4aINe5NvYWLBXS8AkMb', 'BrightSaturaContrastAssembler');
-// demo01/BrightSaturaContrastAssembler/BrightSaturaContrastAssembler.ts
+// shaderScene/BrightSaturaContrastTest/BrightSaturaContrastAssembler/BrightSaturaContrastAssembler.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {

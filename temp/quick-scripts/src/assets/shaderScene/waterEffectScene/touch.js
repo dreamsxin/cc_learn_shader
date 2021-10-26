@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '9963bP2sC9OnLmQuEEmLX1A', 'touch');
-// Script/waterEffectScene/touch.ts
+// shaderScene/waterEffectScene/touch.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {

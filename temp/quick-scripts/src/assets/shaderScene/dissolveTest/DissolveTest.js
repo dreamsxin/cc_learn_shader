@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '4ebf5+LjkdC7bEhwfIM9y46', 'DissolveTest');
-// demo04/DissolveTest.ts
+// shaderScene/dissolveTest/DissolveTest.ts
 
 "use strict";
 // 

@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'b242cccb9JMaISIAO+2SJsN', 'CaptureTest');
-// demo06/CaptureTest.ts
+// shaderScene/CaptureTest/CaptureTest.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {

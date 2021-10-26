@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'd779c1vtRNPkJC/CpqlAJrQ', 'GTAssembler2D');
-// common/GTAssembler2D.ts
+// shaderScene/common/GTAssembler2D.ts
 
 "use strict";
 // author: https://github.com/caogtaa/CCBatchingTricks   GT

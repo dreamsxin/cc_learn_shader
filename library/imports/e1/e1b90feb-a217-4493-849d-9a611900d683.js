@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'e1b90/rohdEk4SdmmEZANaD', 'BrightSaturaContrastUniform');
-// demo01/BrightSaturaContrastUniform/BrightSaturaContrastUniform.ts
+// shaderScene/BrightSaturaContrastTest/BrightSaturaContrastUniform/BrightSaturaContrastUniform.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {

@@ -1,6 +1,6 @@
 # cocos creator 2.4.6
   - shaderScene目录文件说明
-  1. MeshPolygonSpriteTest-多边形裁剪
+  1. MeshPolygonSpriteTest-多边形裁剪图片与gizmo
   2. BrightSaturaContrastTest-饱和度、亮度、对比度
   3. LiquidBox2dTest-图片液体化
   4. sprite2dLight-2d基本光照
@@ -10,6 +10,7 @@
   8. GrayEffectScene-灰化效果（老照片效果）
   9. LoadingAndTiledSin-loading和红旗飘飘效果
   10. MosaicEffectScene-马赛克
+  11. ColorAssembler2D-文字渐变效果
 
 # 一、CUP & GPU
 CPU和GPU，都属于处理单元，但是结构不同，

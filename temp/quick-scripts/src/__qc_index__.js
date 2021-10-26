@@ -7,6 +7,7 @@ require('./assets/shaderScene/BrightSaturaContrastTest/BrightSaturaContrastTest'
 require('./assets/shaderScene/BrightSaturaContrastTest/BrightSaturaContrastUniform/BrightSaturaContrastUniform');
 require('./assets/shaderScene/CaptureTest/CaptureTest');
 require('./assets/shaderScene/CaptureTest/EncodeJPG');
+require('./assets/shaderScene/ColorAssembler2D/ColorAssembler2D');
 require('./assets/shaderScene/LiquidBox2dTest/LiquidBox2dTest');
 require('./assets/shaderScene/MeshPolygonSpriteTest/MeshPolygonSprite');
 require('./assets/shaderScene/MosaicEffectScene/MosaicEffectScene');

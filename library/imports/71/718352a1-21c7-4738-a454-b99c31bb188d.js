@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '71835KhIcdHOKRUuZwxuxiN', 'GTSimpleSpriteAssembler2D');
-// common/GTSimpleSpriteAssembler2D.ts
+// shaderScene/common/GTSimpleSpriteAssembler2D.ts
 
 "use strict";
 // https://github.com/caogtaa/CCBatchingTricks

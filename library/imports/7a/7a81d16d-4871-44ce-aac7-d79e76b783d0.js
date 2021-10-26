@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '7a81dFtSHFEzqrH1552t4PQ', 'Sprite2dLightTest');
-// demo05/Sprite2dLightTest.ts
+// shaderScene/sprite2dLight/Sprite2dLightTest.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {

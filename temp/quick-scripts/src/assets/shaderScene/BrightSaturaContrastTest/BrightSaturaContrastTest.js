@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'b4f05e15K9Bj72pJrMlUulO', 'BrightSaturaContrastTest');
-// demo01/BrightSaturaContrastTest.ts
+// shaderScene/BrightSaturaContrastTest/BrightSaturaContrastTest.ts
 
 "use strict";
 // author: http://lamyoung.com/

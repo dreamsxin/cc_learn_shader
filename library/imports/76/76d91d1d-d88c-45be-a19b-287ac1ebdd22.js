@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '76d910d2IxFvqGbKHrB690i', 'EncodeJPG');
-// demo06/EncodeJPG.ts
+// shaderScene/CaptureTest/EncodeJPG.ts
 
 "use strict";
 /*

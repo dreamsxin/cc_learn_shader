@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '4b5ebDRHUNGq7qfLsLe2Wrm', 'wave');
-// Script/waterEffectScene/wave.ts
+// shaderScene/waterEffectScene/wave.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {

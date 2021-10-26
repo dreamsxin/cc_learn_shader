@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '0262diwIuhPAI3WYjShcK/m', 'MosaicEffectScene');
-// Script/MosaicEffectScene/MosaicEffectScene.ts
+// shaderScene/MosaicEffectScene/MosaicEffectScene.ts
 
 "use strict";
 var __extends = (this && this.__extends) || (function () {
