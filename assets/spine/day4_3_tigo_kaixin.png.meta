@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a35bd9c3-95f2-4aee-8c53-06c715f94288",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 772,
+  "height": 709,
+  "platformSettings": {},
+  "subMetas": {
+    "day4_3_tigo_kaixin": {
+      "ver": "1.0.6",
+      "uuid": "31ec6343-c170-4f2d-b5fd-ccd7adc10b21",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a35bd9c3-95f2-4aee-8c53-06c715f94288",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 768,
+      "height": 705,
+      "rawWidth": 772,
+      "rawHeight": 709,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

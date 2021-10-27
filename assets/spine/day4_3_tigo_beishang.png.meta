@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "a653599e-f074-42a2-b172-53097c1c59c5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 756,
+  "height": 520,
+  "platformSettings": {},
+  "subMetas": {
+    "day4_3_tigo_beishang": {
+      "ver": "1.0.6",
+      "uuid": "116f6850-e0f9-43d3-a1b9-557fdc45a333",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "a653599e-f074-42a2-b172-53097c1c59c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 752,
+      "height": 516,
+      "rawWidth": 756,
+      "rawHeight": 520,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -26,6 +26,8 @@ require('./assets/shaderScene/common/GTAssembler2D');
 require('./assets/shaderScene/common/GTSimpleSpriteAssembler2D');
 require('./assets/shaderScene/dissolveTest/DissolveTest');
 require('./assets/shaderScene/dissolveTest/GrayEffectScene');
+require('./assets/shaderScene/graphicsSprite/src/GraphicsSpriteMesh_rope');
+require('./assets/shaderScene/graphicsSprite/src/Main_rope');
 require('./assets/shaderScene/sprite2dLight/Sprite2dLightTest');
 require('./assets/shaderScene/waterEffectScene/touch');
 require('./assets/shaderScene/waterEffectScene/wave');

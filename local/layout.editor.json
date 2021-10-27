@@ -5,21 +5,21 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 0,
-      "y": 27,
-      "width": 1440,
-      "height": 825,
+      "x": -509,
+      "y": -1051,
+      "width": 1794,
+      "height": 1026,
       "layout": {
         "type": "dock-h",
         "children": [
           {
             "width": 204,
-            "height": 740,
+            "height": 938.5,
             "type": "dock-v",
             "children": [
               {
                 "width": 204,
-                "height": 280.234375,
+                "height": 351.8125,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -28,7 +28,7 @@
               },
               {
                 "width": 204,
-                "height": 456.75,
+                "height": 583.6875,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -40,7 +40,7 @@
           },
           {
             "width": 304,
-            "height": 740,
+            "height": 938.5,
             "type": "panel",
             "active": 0,
             "children": [
@@ -49,13 +49,13 @@
             ]
           },
           {
-            "width": 926,
-            "height": 740,
+            "width": 1280,
+            "height": 938.5,
             "type": "dock-v",
             "children": [
               {
-                "width": 926,
-                "height": 396.375,
+                "width": 1280,
+                "height": 627.671875,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -63,8 +63,8 @@
                 ]
               },
               {
-                "width": 926,
-                "height": 340.625,
+                "width": 1280,
+                "height": 307.828125,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -89,7 +89,33 @@
         "game-window"
       ]
     },
-    " common-asset-worker-worker": {}
+    " common-asset-worker-worker": {},
+    "window-1635326523529": {
+      "main": false,
+      "url": "unpack://static/window.html",
+      "windowType": "dockable",
+      "x": 810,
+      "y": 273,
+      "width": 300,
+      "height": 508,
+      "layout": {
+        "type": "dock-v",
+        "children": [
+          {
+            "width": 300,
+            "height": 480,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "node-library"
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "node-library"
+      ]
+    }
   },
   "panels": {
     "package-asset.import": {
@@ -103,6 +129,12 @@
       "y": 121,
       "width": 500,
       "height": 728
+    },
+    "node-library": {
+      "x": 810,
+      "y": 273,
+      "width": 300,
+      "height": 508
     }
   },
   "panelLabelWidth": {}

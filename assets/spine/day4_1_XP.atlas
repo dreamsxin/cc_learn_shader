@@ -1,0 +1,111 @@
+
+day4_1_XP.png
+size: 907,898
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gougou
+  rotate: false
+  xy: 228, 449
+  size: 225, 222
+  orig: 229, 227
+  offset: 1, 3
+  index: -1
+pai_1
+  rotate: false
+  xy: 673, 3
+  size: 221, 221
+  orig: 228, 227
+  offset: 4, 3
+  index: -1
+pai_10
+  rotate: true
+  xy: 677, 226
+  size: 221, 222
+  orig: 229, 227
+  offset: 5, 3
+  index: -1
+pai_11
+  rotate: false
+  xy: 226, 4
+  size: 222, 222
+  orig: 229, 227
+  offset: 4, 3
+  index: -1
+pai_12
+  rotate: true
+  xy: 455, 449
+  size: 222, 223
+  orig: 229, 227
+  offset: 3, 4
+  index: -1
+pai_13
+  rotate: true
+  xy: 681, 673
+  size: 223, 224
+  orig: 229, 227
+  offset: 4, 2
+  index: -1
+pai_14
+  rotate: true
+  xy: 450, 2
+  size: 222, 221
+  orig: 229, 227
+  offset: 4, 4
+  index: -1
+pai_2
+  rotate: false
+  xy: 2, 671
+  size: 224, 225
+  orig: 228, 227
+  offset: 2, 2
+  index: -1
+pai_3
+  rotate: false
+  xy: 228, 673
+  size: 225, 223
+  orig: 228, 227
+  offset: 2, 2
+  index: -1
+pai_4
+  rotate: false
+  xy: 680, 449
+  size: 222, 222
+  orig: 228, 227
+  offset: 2, 4
+  index: -1
+pai_5
+  rotate: false
+  xy: 227, 228
+  size: 224, 219
+  orig: 228, 227
+  offset: 2, 4
+  index: -1
+pai_6
+  rotate: true
+  xy: 2, 216
+  size: 225, 222
+  orig: 229, 227
+  offset: 3, 3
+  index: -1
+pai_7
+  rotate: true
+  xy: 2, 443
+  size: 226, 223
+  orig: 229, 227
+  offset: 0, 2
+  index: -1
+pai_8
+  rotate: false
+  xy: 455, 673
+  size: 224, 223
+  orig: 229, 227
+  offset: 3, 2
+  index: -1
+pai_9
+  rotate: false
+  xy: 453, 226
+  size: 222, 221
+  orig: 229, 227
+  offset: 4, 3
+  index: -1

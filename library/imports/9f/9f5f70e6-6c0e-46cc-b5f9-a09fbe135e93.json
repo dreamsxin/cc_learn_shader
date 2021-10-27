@@ -249,7 +249,7 @@
   {
     "__type__": "cc.Node",
     "_name": "back",
-    "_objFlags": 512,
+    "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "18eb6011-c37e-48d8-92df-d2cd5fed329a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 993,
+  "height": 282,
+  "platformSettings": {},
+  "subMetas": {
+    "day4_2_Hippo_mf_daiji": {
+      "ver": "1.0.6",
+      "uuid": "700f8100-afef-4293-ad16-681fbc95ea3a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "18eb6011-c37e-48d8-92df-d2cd5fed329a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 989,
+      "height": 278,
+      "rawWidth": 993,
+      "rawHeight": 282,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
