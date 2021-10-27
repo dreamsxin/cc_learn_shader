@@ -1,0 +1,54 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "plugins": [
+    "@typescript-eslint"
+  ],
+  "extends": [
+    "plugin:@typescript-eslint/recommended",
+    "standard",
+    "prettier",
+    "prettier/@typescript-eslint",
+    "prettier/standard"
+  ],
+  "rules": {
+    "import/no-unresolved": 2,
+    "@typescript-eslint/explicit-function-return-type": 0,
+    "@typescript-eslint/ban-ts-ignore": 0,
+    "@typescript-eslint/camelcase": 0,
+    "@typescript-eslint/no-empty-function": 0,
+    "@typescript-eslint/no-explicit-any": 0,
+    "@typescript-eslint/no-inferrable-types": 0,
+    "@typescript-eslint/no-var-requires": 0
+  },
+  "globals": {
+    "tt": true,
+    "cc": true,
+    "wx": true,
+    "Video": true,
+    "gameEvent": true,
+    "sp": true,
+    "ee": true,
+    "CC_EDITOR": true,
+    "CC_DEV": true,
+    "CC_PREVIEW": true,
+    "CC_DEBUG": true,
+    "CC_BUILD": true,
+    "CC_JSB": true,
+    "CC_RUNTIME": true,
+    "CC_TEST": true,
+    "CC_WECHATGAME": true
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [
+          ".ts",
+          ".d.ts"
+        ]
+      }
+    }
+  }
+}
