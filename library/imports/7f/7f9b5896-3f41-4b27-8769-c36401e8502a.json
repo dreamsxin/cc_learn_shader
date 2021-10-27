@@ -3422,7 +3422,7 @@
   {
     "__type__": "cc.Node",
     "_name": "Button_demo09",
-    "_objFlags": 0,
+    "_objFlags": 512,
     "_parent": {
       "__id__": 5
     },

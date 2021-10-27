@@ -14,12 +14,12 @@
         "children": [
           {
             "width": 204,
-            "height": 938.5,
+            "height": 941,
             "type": "dock-v",
             "children": [
               {
                 "width": 204,
-                "height": 351.8125,
+                "height": 353,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -28,7 +28,7 @@
               },
               {
                 "width": 204,
-                "height": 583.6875,
+                "height": 584.984375,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -40,7 +40,7 @@
           },
           {
             "width": 304,
-            "height": 938.5,
+            "height": 941,
             "type": "panel",
             "active": 0,
             "children": [
@@ -50,12 +50,12 @@
           },
           {
             "width": 1280,
-            "height": 938.5,
+            "height": 941,
             "type": "dock-v",
             "children": [
               {
                 "width": 1280,
-                "height": 627.671875,
+                "height": 629,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -64,7 +64,7 @@
               },
               {
                 "width": 1280,
-                "height": 307.828125,
+                "height": 309,
                 "type": "panel",
                 "active": 0,
                 "children": [
@@ -89,33 +89,7 @@
         "game-window"
       ]
     },
-    " common-asset-worker-worker": {},
-    "window-1635326523529": {
-      "main": false,
-      "url": "unpack://static/window.html",
-      "windowType": "dockable",
-      "x": 810,
-      "y": 273,
-      "width": 300,
-      "height": 508,
-      "layout": {
-        "type": "dock-v",
-        "children": [
-          {
-            "width": 300,
-            "height": 480,
-            "type": "panel",
-            "active": 0,
-            "children": [
-              "node-library"
-            ]
-          }
-        ]
-      },
-      "panels": [
-        "node-library"
-      ]
-    }
+    " common-asset-worker-worker": {}
   },
   "panels": {
     "package-asset.import": {
