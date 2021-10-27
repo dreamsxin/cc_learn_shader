@@ -11,6 +11,7 @@
   9. LoadingAndTiledSin-loading和红旗飘飘效果
   10. MosaicEffectScene-马赛克
   11. ColorAssembler2D-文字渐变效果
+  12. graphicsSprite-画绳子效果
 
 # 一、CUP & GPU
 CPU和GPU，都属于处理单元，但是结构不同，
